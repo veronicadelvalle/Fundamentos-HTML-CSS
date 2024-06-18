@@ -1,4 +1,4 @@
-# 🌟 Link de redes sociales 🍳
+# 🌟 Fundamentos HTML & CSS 🍳
 
 ![Link de Redes Sociales](./assets/images/design/desktop-design.jpg)
 
